@@ -1,3 +1,33 @@
 body {
     font-family: Verdana, Arial, sans-serif;
+    color: white;
+    background-color: #1e1e1e;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1,
+h2 {
+    color: #f77f00;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+p,
+ul,
+li {
+    font-size: 18px;
+}
+
+.center-img {
+    text-align: center;
+}
+
+a {
+    color: rgb(47, 129, 247);
 }
