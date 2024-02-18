@@ -4,8 +4,20 @@ body {
     background-color: #1e1e1e;
 }
 
+div.content {
+    width: 1060px;
+    margin: 0 auto;
+}
+
 h1 {
+    font-size: 36px;
     text-align: center;
+}
+
+h2 {
+    font-size: 28px;
+    margin-top: 28px;
+    margin-bottom: 16px;
 }
 
 h1,
@@ -18,14 +30,22 @@ img {
     width: 500px;
 }
 
+.center-img {
+    text-align: center;
+}
+
 p,
 ul,
 li {
     font-size: 18px;
 }
 
-.center-img {
-    text-align: center;
+p {
+    line-height: 28px;
+}
+
+li {
+    margin-bottom: 8px;
 }
 
 a {
